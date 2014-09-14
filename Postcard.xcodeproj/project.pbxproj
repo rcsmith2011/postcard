@@ -13,6 +13,8 @@
 		79801B6D19C59741006D6365 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 79801B6C19C59741006D6365 /* Images.xcassets */; };
 		79801B7019C59741006D6365 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 79801B6E19C59741006D6365 /* LaunchScreen.xib */; };
 		79801B7C19C59741006D6365 /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79801B7B19C59741006D6365 /* PostcardTests.swift */; };
+		79801B8719C59979006D6365 /* 800px-Bodiam-castle-10My8-1197.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 79801B8519C59979006D6365 /* 800px-Bodiam-castle-10My8-1197.jpg */; };
+		79801B8819C59979006D6365 /* 41-cent-flag-stamp.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 79801B8619C59979006D6365 /* 41-cent-flag-stamp.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		79801B7519C59741006D6365 /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		79801B7A19C59741006D6365 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		79801B7B19C59741006D6365 /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		79801B8519C59979006D6365 /* 800px-Bodiam-castle-10My8-1197.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "800px-Bodiam-castle-10My8-1197.jpg"; sourceTree = "<group>"; };
+		79801B8619C59979006D6365 /* 41-cent-flag-stamp.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "41-cent-flag-stamp.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		79801B6319C59741006D6365 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				79801B8519C59979006D6365 /* 800px-Bodiam-castle-10My8-1197.jpg */,
+				79801B8619C59979006D6365 /* 41-cent-flag-stamp.jpg */,
 				79801B6419C59741006D6365 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -192,8 +198,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				79801B8819C59979006D6365 /* 41-cent-flag-stamp.jpg in Resources */,
 				79801B6B19C59741006D6365 /* Main.storyboard in Resources */,
 				79801B7019C59741006D6365 /* LaunchScreen.xib in Resources */,
+				79801B8719C59979006D6365 /* 800px-Bodiam-castle-10My8-1197.jpg in Resources */,
 				79801B6D19C59741006D6365 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
